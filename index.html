@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eden Consultants | Commercial Development Consulting</title>
+  <meta name="description" content="Development consulting for shopping centers, QSR, restaurants, office, and medical condos. Early feasibility through execution support.">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    :root {
+      --accent: #2563eb;
+    }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      scroll-behavior: smooth;
+    }
+    .skip-link {
+      position: absolute;
+      top: -40px;
+      left: 0;
+      background: var(--accent);
+      color: white;
+      padding: 8px;
+      z-index: 100;
+      transition: top 0.2s;
+    }
+    .skip-link:focus {
+      top: 0;
+    }
+  </style>
+<script type="importmap">
+{
+  "imports": {
+    "react": "https://esm.sh/react@^19.2.3",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
+    "react/": "https://esm.sh/react@^19.2.3/",
+    "react-router-dom": "https://esm.sh/react-router-dom@^7.11.0"
+  }
+}
+</script>
+</head>
+<body class="bg-slate-50 text-slate-900">
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+  <div id="root"></div>
+</body>
+</html>

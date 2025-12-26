@@ -1,0 +1,66 @@
+
+[
+  {
+    "slug": "river-oaks-shopping-center",
+    "title": "River Oaks Redevelopment",
+    "industry": "Shopping Center",
+    "location": "Houston, TX (TBD)",
+    "year": "2023",
+    "overview": "Comprehensive feasibility study and entitlement strategy for a 150,000 sq ft legacy shopping center modernization.",
+    "what_we_did": [
+      "Site selection and feasibility clarity",
+      "Entitlements and permitting navigation",
+      "Coordination across architects and civil engineers"
+    ],
+    "outcomes": [
+      "Secured 100% permitting approval within accelerated timeline",
+      "Identified $200k in potential utility savings",
+      "Risk reduction before construction began"
+    ],
+    "timeline": "14 months",
+    "tags": ["Retail", "Redevelopment", "Feasibility"],
+    "image": "https://picsum.photos/seed/river/800/450"
+  },
+  {
+    "slug": "metro-medical-condos",
+    "title": "Metro Medical Professional Suites",
+    "industry": "Medical Condo",
+    "location": "Dallas, TX (TBD)",
+    "year": "2022",
+    "overview": "Owner representation for a medical office condo subdivision and MEP intensive fit-out planning.",
+    "what_we_did": [
+      "TI readiness assessment",
+      "MEP flexibility planning",
+      "Schedule risk reduction for physician fit-outs"
+    ],
+    "outcomes": [
+      "Enabled faster tenant occupancy by 15%",
+      "Reduced change orders by 22% via rigorous consultant coordination",
+      "Drafted comprehensive condo docs coordination plan"
+    ],
+    "timeline": "18 months",
+    "tags": ["Medical", "Condos", "MEP"],
+    "image": "https://picsum.photos/seed/medical/800/450"
+  },
+  {
+    "slug": "fast-track-qsr-expansion",
+    "title": "Southwest QSR Portfolio Expansion",
+    "industry": "QSR",
+    "location": "Regional (TBD)",
+    "year": "2024",
+    "overview": "Strategic advisor for a franchise group expanding drive-thru operations across three major municipalities.",
+    "what_we_did": [
+      "Drive-thru flow and stacking access analysis",
+      "High-impact scheduling across consultant teams",
+      "Brand standards coordination with local code"
+    ],
+    "outcomes": [
+      "Successfully delivered 4 locations on time and on budget",
+      "Optimized drive-thru stacking to prevent off-site congestion issues",
+      "Established repeatable unit strategy for future growth"
+    ],
+    "timeline": "Ongoing",
+    "tags": ["Fast Food", "Expansion", "Drive-Thru"],
+    "image": "https://picsum.photos/seed/qsr/800/450"
+  }
+]

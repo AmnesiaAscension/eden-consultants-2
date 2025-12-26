@@ -1,11 +1,13 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# Eden Consultants
 
-  <h1>Built with AI Studio</h2>
+Development Consulting for Commercial Projects.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Tech Stack
+- React 18
+- TypeScript
+- Tailwind CSS
+- HashRouter (for GitHub Pages compatibility)
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Deployment
+This is a static site designed for GitHub Pages. Relative paths and `HashRouter` ensure the site works within any sub-directory on a standard static host.
