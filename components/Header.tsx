@@ -40,14 +40,14 @@ const Header: React.FC = () => {
               key={link.href}
               to={link.href}
               className={`text-sm font-medium transition-colors hover:text-blue-600 ${
-                location.pathname === link.href ? 'text-blue-600' : 'text-slate-600'
+                location.pathname === link.href ? 'text-blue-600 font-bold' : 'text-slate-600'
               }`}
             >
               {link.name}
             </Link>
           ))}
           <Link
-            to="/contact#discovery"
+            to="/contact"
             className="bg-blue-600 text-white px-5 py-2.5 rounded-md text-sm font-bold hover:bg-blue-700 transition-all shadow-sm"
           >
             Discovery Call

@@ -1,13 +1,14 @@
 
-/**
- * Eden Consultants - Vanilla Entry Point
- * This file satisfies the environment's requirement for index.tsx
- * while allowing us to use a multi-page static site architecture.
- */
+import React from 'react';
+import { createRoot } from 'react-dom/client';
+import App from './App';
 
-// Import vanilla logic
-import './assets/js/main.js';
-import './assets/js/caseStudies.js';
-import './assets/js/form.js';
-
-console.log('Eden Consultants Application Initialized');
+const container = document.getElementById('root');
+if (container) {
+  const root = createRoot(container);
+  root.render(
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
+  );
+}
